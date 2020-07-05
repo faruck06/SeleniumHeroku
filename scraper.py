@@ -20,6 +20,6 @@ url = 'https://www.exito.com/celular-samsung-galaxy-a50-128gb-negro-24415/p'
 driver.get(url)
 
 el = driver.find_element_by_xpath('/html/body/div[2]/div/div[1]/div/div/div/div[2]/div/div[4]/div/section/div/div[2]/div/div/div/div/div/div/div/div[1]/div/div/div[1]')
-print('******************************')
+print('***********************222222222222*******')
 print(el.text)
-print('******************************')
+print('****************************33333333**')
